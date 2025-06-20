@@ -1,0 +1,3 @@
+run = "cabal build && cabal run arcana-engine-cli"
+language = "haskell"
+entrypoint = "app/Main.hs"
